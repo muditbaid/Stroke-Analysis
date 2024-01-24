@@ -8,7 +8,8 @@ Early stroke diagnosis is crucial for timely intervention and improved patient o
 ## Data
 Dataset: Dataset: [Link to dataset file](healthcare-dataset-stroke-data.csv)
 
-Class Imbalance Ratio: ![Class Imbalance](images/class_imbalance.png)
+Class Imbalance Ratio:
+![Class Imbalance](images/class_imbalance.png)
 
 ## Methodology
 SMOTE Techniques: BorderLine-SMOTE, SVM-SMOTE, ADASYN, SMOTEN, SMOTE-NC and SMOTEENN
